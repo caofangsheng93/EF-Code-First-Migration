@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code-First Migrations With EF", "Code-First Migrations With EF\Code-First Migrations With EF.csproj", "{BDDE6E1F-6C65-4710-AC1C-B1047E320808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.Entity", "EF.Entity\EF.Entity.csproj", "{F5A5DB77-2D70-4656-B104-CF3449129BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.Core", "EF.Core\EF.Core.csproj", "{5E3A2E16-8EE8-427A-911A-F0BE4CF5A0C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDDE6E1F-6C65-4710-AC1C-B1047E320808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDE6E1F-6C65-4710-AC1C-B1047E320808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDE6E1F-6C65-4710-AC1C-B1047E320808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDE6E1F-6C65-4710-AC1C-B1047E320808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A5DB77-2D70-4656-B104-CF3449129BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A5DB77-2D70-4656-B104-CF3449129BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A5DB77-2D70-4656-B104-CF3449129BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A5DB77-2D70-4656-B104-CF3449129BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E3A2E16-8EE8-427A-911A-F0BE4CF5A0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3A2E16-8EE8-427A-911A-F0BE4CF5A0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3A2E16-8EE8-427A-911A-F0BE4CF5A0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3A2E16-8EE8-427A-911A-F0BE4CF5A0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
